@@ -11,6 +11,8 @@
 - Postman (API Testing)
 
 ## Project Structure
+
+```text
 src/
 ├── config/
 ├── controller/
@@ -19,6 +21,7 @@ src/
 ├── repository/
 ├── service/
 └── resources/
+```
 
 ## Features
 - User Registration
